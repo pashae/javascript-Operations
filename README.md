@@ -1,0 +1,4 @@
+# javascript-Operations
+simple operations using javascript
+Exercise是对列表进行添加与删除操作
+Exercise2是随着鼠标的移动对列表进行切换
